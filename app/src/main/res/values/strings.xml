@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebPager2</string>
+    <string name="estado">Estado</string>
+    <string name="nombre">Nombre</string>
+    <string name="etapa_fenologica">Etapa Fenologica</string>
+    <string name="floramiento">Floramiento</string>
+</resources>
